@@ -33,7 +33,7 @@
 <p align="center">
   <a href="https://github.com/cosyfluf">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cosyfluf&show_icons=true&hide_border=false&theme=radical&count_private=true&rank_icon=github" alt="GitHub Stats"/>
-        <a href="https://github.com/xI-Mx-Ix">
+        <a href="https://github.com/cosyfluf">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xI-Mx-Ix&layout=compact&hide_border=false&theme=radical" alt="Top Languages"/>
     </a>
   </a>
