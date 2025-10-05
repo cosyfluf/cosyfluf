@@ -49,3 +49,6 @@
 <p style="font-size: 0.9em; text-align: right; color: #888; margin-top: 20px;">
   <em>(Warning: My projects may contain traces of coffee and spontaneous technical ramblings.)</em> 😉
 </p>
+
+---
+<p>Afraid of GoodBlaster05</p>
