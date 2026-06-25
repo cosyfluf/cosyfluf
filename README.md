@@ -20,7 +20,7 @@
 <p>
   Want to listen to radio signals from around the globe? I proudly operate my own <span style="font-weight: bold;">WebSDR</span>!
   <br>
-  <a href="https://furrysdr.ddns.net/sdr" style="display: inline-block; padding: 12px 28px; background-color: #dc3545; color: white; text-decoration: none; border-radius: 10px; font-weight: bold; margin-top: 15px; box-shadow: 2px 2px 5px rgba(0,0,0,0.3);">
+  <a href="https://furrysdr.de/" style="display: inline-block; padding: 12px 28px; background-color: #dc3545; color: white; text-decoration: none; border-radius: 10px; font-weight: bold; margin-top: 15px; box-shadow: 2px 2px 5px rgba(0,0,0,0.3);">
     🎧 Listen to Cosyfluf's WebSDR Here!
   </a>
 </p>
